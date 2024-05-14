@@ -33,7 +33,7 @@
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/CSS.svg>
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/JavaScript.svg>
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/python.svg>
-  <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/C.svg>
+  <img  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/C.svg>
   
 </div>
 
