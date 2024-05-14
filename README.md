@@ -8,8 +8,9 @@
 <br>
 <br>
 <br>
-<br>
 </div>
+
+## Contacts:
 
 <div align="center">
   <a href="https://instagram.com/kaua_agner" target="_blank">
@@ -24,8 +25,6 @@
   <img align="center" height="84" width="84" src="https://github.com/KauaAgner/KauaAgner/blob/main/img/gmail.png">
   </a>
 
-  <br>
-  <br>
   <br>
   <br>
   <br>
