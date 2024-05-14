@@ -30,7 +30,7 @@
 
 ## Skills and Tools
 
-<div align="left" style="margin-bottom:100px">
+<div align="left">
   
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/HTML.svg>
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/CSS.svg>
@@ -40,6 +40,8 @@
   
 </div>
 
+<br>
+<br>
 
 ## Contacts:
 
