@@ -17,7 +17,7 @@
   </a>
 
   <a href="https://github.com/KauaAgner" target="_blank">
-  <img align="center" height="84" width="84" src="https://github.com/KauaAgner/KauaAgner/blob/main/img/github.png">
+  <img align="center" height="84" width="84" src="https://github.com/KauaAgner/KauaAgner/blob/main/img/git.png">
   </a>
 
   <a href="mailto:kauaag@gmail.com" target="_blank">
