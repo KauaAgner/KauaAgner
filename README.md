@@ -28,7 +28,7 @@
 <br>
 <br>
 
-## Skills and Tools
+## Skills and Tools:
 
 <div align="left">
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/HTML.svg>
