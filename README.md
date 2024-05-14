@@ -51,15 +51,15 @@
 ## Contacts:
 
 <div align="center">
-  <a href="https://instagram.com/kaua_agner" target="_blank">
+  <a href="https://instagram.com/kaua_agner">
   <img align="center" height="84" width="84" src="https://github.com/KauaAgner/KauaAgner/blob/main/img/insta.png">
   </a>
 
-  <a href="https://github.com/KauaAgner" target="_blank">
+  <a href="https://github.com/KauaAgner">
   <img align="center" height="95" width="95" src="https://github.com/KauaAgner/KauaAgner/blob/main/img/git2.png">
   </a>
 
-  <a href="mailto:kauaag@gmail.com" target="_blank">
+  <a href="mailto:kauaag@gmail.com">
   <img align="center" height="84" width="84" src="https://github.com/KauaAgner/KauaAgner/blob/main/img/gmail.png">
   </a>
 
