@@ -31,13 +31,17 @@
 ## Skills and Tools
 
 <div align="left">
-  
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/HTML.svg>
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/CSS.svg>
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/JavaScript.svg>
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/python.svg>
-  <img  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/C.svg>
-  
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/C.svg> 
+</div>
+
+<div align="left">
+  <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/VSCode.svg>
+  <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/PyCharm.svg>
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/Eclipse.svg>
 </div>
 
 <br>
