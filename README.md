@@ -29,11 +29,11 @@
 
 <div align="left">
   
-  ![Skills](https://github.com/KauaAgner/KauaAgner/blob/main/img/HTML.svg)
-  ![Skills](https://github.com/KauaAgner/KauaAgner/blob/main/img/CSS.svg)
-  ![Skills](https://github.com/KauaAgner/KauaAgner/blob/main/img/JavaScript.svg)
-  ![Skills](https://github.com/KauaAgner/KauaAgner/blob/main/img/python.svg)
-  ![Skills](https://github.com/KauaAgner/KauaAgner/blob/main/img/C.svg)
+  <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/HTML.svg>
+  <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/CSS.svg>
+  <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/JavaScript.svg>
+  <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/python.svg>
+  <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/C.svg>
   
 </div>
 
