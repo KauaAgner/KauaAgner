@@ -37,7 +37,7 @@
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/python.svg>
   <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/C.svg> 
 </div>
-
+<br>
 <div align="left">
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/VSCode.svg>
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/PyCharm.svg>
