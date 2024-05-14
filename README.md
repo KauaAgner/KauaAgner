@@ -10,6 +10,19 @@
 <br>
 </div>
 
+
+<div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KauaAgner&theme=green-nur&card_width=800&card_height=200)](https://git.io/streak-stats)
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Active](https://github.com/KauaAgner/KauaAgner/blob/main/img/activegit.svg)
+  
+</div>
+
 ## Contacts:
 
 <div align="center">
@@ -28,19 +41,3 @@
   <br>
   <br>
 </div>
-
-## Stats
-
-<div align="center">
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KauaAgner&theme=green-nur&card_width=800&card_height=200)](https://git.io/streak-stats)
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Active](https://github.com/KauaAgner/KauaAgner/blob/main/img/activegit.svg)
-  
-</div>
-
-
