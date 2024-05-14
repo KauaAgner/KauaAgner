@@ -25,6 +25,9 @@
 
 -----
 
+<br>
+<br>
+
 ## Skills and Tools
 
 <div align="left">
