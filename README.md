@@ -25,6 +25,19 @@
 
 -----
 
+## Skills and Tools
+
+<div align="left">
+  
+  ![Skills](https://github.com/KauaAgner/KauaAgner/blob/main/img/HTML.svg)
+  ![Skills](https://github.com/KauaAgner/KauaAgner/blob/main/img/CSS.svg)
+  ![Skills](https://github.com/KauaAgner/KauaAgner/blob/main/img/JavaScript.svg)
+  ![Skills](https://github.com/KauaAgner/KauaAgner/blob/main/img/python.svg)
+  ![Skills](https://github.com/KauaAgner/KauaAgner/blob/main/img/C.svg)
+  
+</div>
+
+-----
 
 ## Contacts:
 
