@@ -32,6 +32,6 @@
 
 <div align="center">
   
-  [![GitHub Active](https://github.com/KauaAgner/KauaAgner/blob/main/img/activegit.svg)
+  ![GitHub Active](https://github.com/KauaAgner/KauaAgner/blob/main/img/activegit.svg)
   
 </div>
