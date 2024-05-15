@@ -69,8 +69,10 @@
 
 -----
  <br>
+<div align="center">
  
   ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKauaAgner&s=40&c=046204&bg=00000000&no=4&ff=digi&tb=Visits%3A+&ta=)
- <br>
-
+  <br>
+ </div>
+  
 ![Footer](img/footer.png)
