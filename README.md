@@ -13,7 +13,7 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KauaAgner&theme=green-nur&card_width=800&card_height=200)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KauaAgner&theme=github-dark&card_width=800&card_height=200)](https://git.io/streak-stats)
   
 </div>
 
