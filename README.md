@@ -36,13 +36,23 @@
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/JavaScript.svg>
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/JQuery.svg>
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/python.svg>
-  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/C.svg> 
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/C.svg>
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/java.png>
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/spring.png>
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/nodejs.png>
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/nextjs.png>
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/react.png>
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/postgresql.png>
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/mysql.png>
 </div>
 <br>
 <div align="left">
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/VSCode.svg>
   <img align="left"  height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/PyCharm.svg>
   <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/Eclipse.svg>
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/git.png>
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/insomnia.png>
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/postman.png>
 </div>
 
 <br>
