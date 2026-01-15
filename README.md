@@ -12,7 +12,9 @@
 
 <div align="center">
   
-  <img src="https://ghchart.rshah.org/0B8800/KauaAgner" alt="Kaua Agner's Github Chart" />
+  <a href="https://github.com/KauaAgner">
+    <img src="https://github-readme-terminal.vercel.app/api/v1?username=KauaAgner&theme=github_dark&icon_color=0B8800&text_color=0B8800&bg_color=0d1117&hide_border=true" alt="KauaAgner's Terminal Stats" />
+  </a>
   
 </div>
 
