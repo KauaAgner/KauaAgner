@@ -33,6 +33,7 @@
   <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/java.png>
   <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/spring.png>
   <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/nodejs.png>
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/nestjs.png>
   <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/nextjs.png>
   <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/react.png>
   <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/postgresql.png>
