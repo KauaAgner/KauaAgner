@@ -10,16 +10,9 @@
 <br>
 </div>
 
-
-<div align="center">
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KauaAgner&theme=github-dark&card_width=800&card_height=200)](https://git.io/streak-stats)
-  
-</div>
-
 <div align="center">
   
-  [![Ashutosh's github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=KauaAgner&bg_color=0d1117&color=0B8800&line=0B8800&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://ghchart.rshah.org/0B8800/KauaAgner" alt="Kaua Agner's Github Chart" />
   
 </div>
 
