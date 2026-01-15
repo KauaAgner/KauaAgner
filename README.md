@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  ![GitHub Active](https://github.com/KauaAgner/KauaAgner/blob/main/img/activegit.svg)
+  [![Ashutosh's github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=KauaAgner&bg_color=0d1117&color=0B8800&line=0B8800&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
 
@@ -78,12 +78,5 @@
 </div>
 
 -----
- <br>
-<div align="center">
- 
-  ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKauaAgner&s=40&c=046204&bg=00000000&no=4&ff=digi&tb=Visits%3A+&ta=)
-  <br>
-  <br>
- </div>
   
 ![Footer](img/footer.png)
