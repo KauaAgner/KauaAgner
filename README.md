@@ -17,6 +17,7 @@
 -----
 
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAgner&layout=pie&langs_count=8&count_private=true&theme=tokyonight)
 <br>
 
 ## Skills and Tools:
