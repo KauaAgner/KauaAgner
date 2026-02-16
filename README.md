@@ -17,13 +17,16 @@
 -----
 
 <br>
+<br>
+
 <div align="center">
   <img 
-    src="https://github-readme-stats-five-ashy-96.vercel.app/api/top-langs/?username=KauaAgner&layout=pie&langs_count=8&count_private=true&theme=tokyonight&hide_border=true" 
-    height="300"
+    src="https://github-readme-stats-five-ashy-96.vercel.app/api/top-langs/?username=KauaAgner&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true" 
+    height="200"
   />
 </div>
 
+<br>
 <br>
 
 ## Skills and Tools:
