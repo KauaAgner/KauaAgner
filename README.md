@@ -18,7 +18,10 @@
 
 <br>
 <div align="center">
-  <img height="500" src="https://github-readme-stats-five-ashy-96.vercel.app/api/top-langs/?username=KauaAgner&layout=compact&langs_count=6&count_private=true&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats-five-ashy-96.vercel.app/api/top-langs/?username=KauaAgner&layout=compact&langs_count=6&count_private=true&theme=tokyonight&hide_border=true&hide=html,handlebars,css" 
+    height="260"
+  />
 </div>
 <br>
 
