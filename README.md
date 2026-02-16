@@ -18,10 +18,8 @@
 
 <br>
 <div align="center">
-  <img 
-    src="https://github-readme-stats-five-ashy-96.vercel.app/api/top-langs/?username=KauaAgner&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true" 
-    height="320"
-  />
+  <img height="170" src="https://github-readme-stats-five-ashy-96.vercel.app/api?username=KauaAgner&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-five-ashy-96.vercel.app/api/top-langs/?username=KauaAgner&layout=compact&langs_count=6&count_private=true&theme=tokyonight&hide_border=true"/>
 </div>
 <br>
 
