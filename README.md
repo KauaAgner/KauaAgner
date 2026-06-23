@@ -34,6 +34,7 @@
   <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/react.png>
   <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/postgresql.png>
   <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/mysql.png>
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/docker-icon.png>
 </div>
 <br>
 <div align="left">
