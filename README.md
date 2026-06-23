@@ -44,6 +44,8 @@
   <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/git.png>
   <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/insomnia.png>
   <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/postman.png>
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/cursor-ai.png>
+  <img height="80" width="80" src=https://github.com/KauaAgner/KauaAgner/blob/main/img/claude.png>
 </div>
 
 <br>
